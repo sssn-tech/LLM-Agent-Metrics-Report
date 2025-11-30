@@ -3,6 +3,8 @@
 
 个人学习笔记，适合有一点点LLM基础（了解token，注意力等基本概念即可），想要开始了解LLM agent的读者。我个人强烈推荐一些引用的参考文献。在体感上，比起大部头的综述论文，一些优秀的技术报告、博客、知乎专栏，甚至是某条评论可能更能给像我这样的初学者提供insight，从而快速入门领域。
 
+markdown是用Typora写的，模板是latex-theme: https://github.com/Keldos-Li/typora-latex-theme，自定义了一些边距
+
 ## 目录
 
 ```
